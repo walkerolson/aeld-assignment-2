@@ -1,0 +1,7 @@
+make: Entering directory '/home/olsonwx/Documents/assignments/finder-app'
+rm -f writer *.o
+make: Leaving directory '/home/olsonwx/Documents/assignments/finder-app'
+make: Entering directory '/home/olsonwx/Documents/assignments/finder-app'
+/armgnu/arm-gnu-toolchain-13.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc -Wall -Werror writer.c -o writer
+make: Leaving directory '/home/olsonwx/Documents/assignments/finder-app'
+finder-app/writer: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, for GNU/Linux 3.7.0, with debug_info, not stripped
